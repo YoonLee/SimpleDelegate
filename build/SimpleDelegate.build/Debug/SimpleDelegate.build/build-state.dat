@@ -1,0 +1,155 @@
+TSimpleDelegate
+v7
+r0
+t315309214.016837
+cCheck dependencies
+cProcessPCH /var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch.gch SimpleDelegate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.o /Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/AreWeThereYet.o /Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/DriveThisController.o /Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yoonlee/Desktop/SimpleDelegate/build/Debug/SimpleDelegate normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.h
+c000000004D1B028D00000000000002DB
+t1293615757
+s731
+i<Foundation/Foundation.h>
+
+N/Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m
+c000000004D1B028000000000000002F1
+t1293615744
+s753
+i"AreWeThereYet.h"
+
+N/Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.h
+c000000004D1B04CB0000000000000158
+t1293616331
+s344
+i<Foundation/Foundation.h>
+i"AreWeThereYet.h"
+
+N/Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m
+c000000004D1B0519000000000000030B
+t1293616409
+s779
+i"DriveThisController.h"
+
+N/Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m
+c000000004D1B04BF0000000000000182
+t1293616319
+s386
+i<Foundation/Foundation.h>
+i"DriveThisController.h"
+
+N/Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate_Prefix.pch
+c000000004D1AFE2400000000000000AA
+t1293614628
+s170
+i<Foundation/Foundation.h>
+
+N/Users/yoonlee/Desktop/SimpleDelegate/build/Debug/SimpleDelegate
+t1293616414
+s16704
+
+N/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/AreWeThereYet.o
+t1293615772
+s11436
+
+N/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/DriveThisController.o
+t1293616413
+s15080
+
+N/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.LinkFileList
+c000000004D1B0396000000000000018D
+t1293616022
+s397
+
+N/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.o
+t1293616334
+s7564
+
+N/var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch.gch
+t1293614734
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315309213#315309213#0(0"0(0#1#0"8721897248#0"0#
+
+CCompileC build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/AreWeThereYet.o /Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315308572.661056
+e315308572.947935
+r1
+xCompileC
+xbuild/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/AreWeThereYet.o
+x/Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m315308572#315308572#0(0"0(0#0#53"/Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m8678804096#1597"    cd /Users/yoonlee/Desktop/SimpleDelegate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-generated-files.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-own-target-headers.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-project-headers.hmap -F/Users/yoonlee/Desktop/SimpleDelegate/build/Debug -I/Users/yoonlee/Desktop/SimpleDelegate/build/Debug/include -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources/x86_64 -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources -include /var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch -c /Users/yoonlee/Desktop/SimpleDelegate/AreWeThereYet.m -o /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/AreWeThereYet.o0#
+
+CCompileC build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/DriveThisController.o /Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315309213.599770
+e315309213.993720
+r1
+xCompileC
+xbuild/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/DriveThisController.o
+x/Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m315309213#315309213#0(0"0(0#0#59"/Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m8697284416#1609"    cd /Users/yoonlee/Desktop/SimpleDelegate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-generated-files.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-own-target-headers.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-project-headers.hmap -F/Users/yoonlee/Desktop/SimpleDelegate/build/Debug -I/Users/yoonlee/Desktop/SimpleDelegate/build/Debug/include -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources/x86_64 -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources -include /var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch -c /Users/yoonlee/Desktop/SimpleDelegate/DriveThisController.m -o /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/DriveThisController.o0#
+
+CCompileC build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.o /Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315309134.010713
+e315309134.239379
+r1
+xCompileC
+xbuild/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.o
+x/Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m315309134#315309134#0(0"0(0#0#54"/Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m8677495808#1599"    cd /Users/yoonlee/Desktop/SimpleDelegate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-generated-files.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-own-target-headers.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-project-headers.hmap -F/Users/yoonlee/Desktop/SimpleDelegate/build/Debug -I/Users/yoonlee/Desktop/SimpleDelegate/build/Debug/include -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources/x86_64 -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources -include /var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch -c /Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate.m -o /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.o0#
+
+CLd /Users/yoonlee/Desktop/SimpleDelegate/build/Debug/SimpleDelegate normal x86_64
+s315309213.993810
+e315309214.016788
+r1
+xLd
+x/Users/yoonlee/Desktop/SimpleDelegate/build/Debug/SimpleDelegate
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/yoonlee/Desktop/SimpleDelegate/build/Debug/SimpleDelegate315309213#315309214#0(0"0(0#0#0"8645655744#543"    cd /Users/yoonlee/Desktop/SimpleDelegate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/yoonlee/Desktop/SimpleDelegate/build/Debug -F/Users/yoonlee/Desktop/SimpleDelegate/build/Debug -filelist /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/Objects-normal/x86_64/SimpleDelegate.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/yoonlee/Desktop/SimpleDelegate/build/Debug/SimpleDelegate0#
+
+CProcessPCH /var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch.gch SimpleDelegate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315307531.363134
+e315307534.637656
+r1
+xProcessPCH
+x/var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch.gch
+xSimpleDelegate_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SimpleDelegate_Prefix.pch315307531#315307534#0(0"0(0#0#63"/Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate_Prefix.pch8614894080#1479"    cd /Users/yoonlee/Desktop/SimpleDelegate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-generated-files.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-own-target-headers.hmap -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-all-target-headers.hmap -iquote /Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/SimpleDelegate-project-headers.hmap -F/Users/yoonlee/Desktop/SimpleDelegate/build/Debug -I/Users/yoonlee/Desktop/SimpleDelegate/build/Debug/include -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources/x86_64 -I/Users/yoonlee/Desktop/SimpleDelegate/build/SimpleDelegate.build/Debug/SimpleDelegate.build/DerivedSources -c /Users/yoonlee/Desktop/SimpleDelegate/SimpleDelegate_Prefix.pch -o /var/folders/G9/G9Wb2vbSGAajXXUUyTHJk++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleDelegate_Prefix-dxiesqjgqyhlxtblwdjfhozduivf/SimpleDelegate_Prefix.pch.gch0#
+

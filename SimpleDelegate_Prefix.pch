@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SimpleDelegate' target in the 'SimpleDelegate' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
